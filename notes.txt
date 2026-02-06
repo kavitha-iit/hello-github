@@ -1,5 +1,0 @@
-GitHub Notes
-
-- Repository = online project folder
-- Commit = saved version
-- GitHub keeps history of changes
